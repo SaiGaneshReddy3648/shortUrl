@@ -1,2 +1,2 @@
 # shortUrl
- download this project <button><a href="#">Download</a></button>
+ download this project <button><a href="#" download >Download</a></button>
